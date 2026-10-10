@@ -31,7 +31,7 @@ export default function RSVPCard() {
           <div className="g-divider"><div className="g-diamond" /></div>
           <p className={`ty-text ${inv}`}>Cavabınız göndərildi.<br/>Sizi görməyi səbirsizliklə gözləyirik.</p>
           <p className={`ty-names ${inv}`}>Kamran &amp; Pikəxanım</p>
-          <p className={`ty-date ${inv}`}>20 Sentyabr 2026</p>
+          <p className={`ty-date ${inv}`}>22 Noyabr 2026</p>
         </div>
       </div>
     </section>
